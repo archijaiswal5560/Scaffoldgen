@@ -30,13 +30,13 @@ export default function AboutCLI() {
               <div className="absolute -top-12 -left-7 w-full h-full bg-[#1F1F1F] rounded-2xl opacity-80"></div>
 
               <div className="relative rounded-2xl overflow-hidden border border-[#2a2a2a] bg-[#0d0d0d]/95 ]">
-                <div className="flex items-center gap-2 px-4 py-3 bg-[#131920] border-b border-[#2a2a2a]">
+                <div className="flex items-center justify-between px-4 py-3 bg-[#131920] border-b border-[#2a2a2a]">
                   <div className="flex gap-2">
                     <span className="w-3 h-3 rounded-full bg-red-500"></span>
                     <span className="w-3 h-3 rounded-full bg-yellow-500"></span>
                     <span className="w-3 h-3 rounded-full bg-green-500"></span>
                   </div>
-                  <span className="ml-4 text-sm text-gray-400 font-mono">
+                  <span className="text-sm text-gray-400 font-mono">
                     scaffoldgen
                   </span>
                 </div>
