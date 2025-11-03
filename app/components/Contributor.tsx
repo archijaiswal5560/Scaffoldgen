@@ -3,24 +3,24 @@ import Image from "next/image";
 export default function MajorContributors() {
   const contributors = [
     {
-      name: "Name 1",
+      name: "Archi",
       role: "Core Contributor",
-      image: "/assets/gallery.png",
+      image: "/assets/avatar.png",
     },
     {
-      name: "Name 2",
+      name: "Archi",
       role: "Core Contributor",
-      image: "/assets/gallery.png",
+      image: "/assets/avatar.png",
     },
     {
-      name: "Name 3",
+      name: "Archi",
       role: "Core Contributor",
-      image: "/assets/gallery.png",
+      image: "/assets/avatar.png",
     },
     {
-      name: "Name 4",
+      name: "Archi",
       role: "Core Contributor",
-      image: "/assets/gallery.png",
+      image: "/assets/avatar.png",
     },
   ];
 
